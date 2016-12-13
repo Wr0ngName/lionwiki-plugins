@@ -2,7 +2,7 @@
 A bunch of plugins made for LionWiki (http://lionwiki.0o.cz)
 
 # Installation
-Simply copy the file for the relatedd plugin into your lionwiki directory, under the 'plugins' folder. Done!
+Simply copy the file for the related plugin into your lionwiki directory, under the 'plugins' folder. Done!
 
 ---
 # Anchor
@@ -18,5 +18,7 @@ A plugin to add a Youtube video in a page. Without giving the right to write ran
 ---
 
 # Remarks
+Let me know for any security issue, or any other trouble that can happen.
 
-Please let me know for any security issue, or any other trouble that can happen.
+# Regarding LionWiki
+Find more about LionWiki at: http://lionwiki.0o.cz/
