@@ -14,6 +14,7 @@ Syntax: {anchor:your_anchor_name}
 
 A plugin to add a Youtube video in a page. Without giving the right to write random HTML to the users.
 Syntax: {anchor:your_anchor_name}
+
 ---
 
 # Remarks
