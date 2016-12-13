@@ -8,12 +8,12 @@ Simply copy the file for the relatedd plugin into your lionwiki directory, under
 # Anchor
 
 A simple plugin to add an anchor in a page. Useful? Maybe.
-''Syntax: {anchor:your_anchor_name}''
+> **Syntax: {anchor:your_anchor_name}**
 
 # Youtube
 
 A plugin to add a Youtube video in a page. Without giving the right to write random HTML to the users.
-''Syntax: {anchor:your_anchor_name}''
+> **Syntax: {youtube:youtube_video_id}**
 
 ---
 
