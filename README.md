@@ -12,7 +12,7 @@ A simple plugin to add an anchor in a page. Useful? Maybe.
 
 # ReCaptcha
 
-A plugin to add Google TReCaptcha support. Help against spammers in comment or admin areas! Replaces the standard text CAPTCHA with the ReCaptcha one. Use the following syntax in your templates.
+A plugin to add Google ReCaptcha support. Help against spammers in comment or admin areas! Replaces the standard text CAPTCHA with the ReCaptcha one. Use the following syntax in your templates.
 > **Syntax: `{  plugin:RECAPTCHA}`**
 
 As an example, for the Comments section, you need to:
